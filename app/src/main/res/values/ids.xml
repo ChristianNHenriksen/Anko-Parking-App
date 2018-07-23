@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item type="id" name="parking_lost_list_image_view" />
+    <item type="id" name="parking_lost_list_name_text" />
+    <item type="id" name="parking_lost_list_description_text" />
 </resources>
